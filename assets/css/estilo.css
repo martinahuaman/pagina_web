@@ -3,10 +3,22 @@
 }
 
 .logo{
-	font-family: "Patua One";
+	font-family: "Fredoka One";
 	font-size: 6em;
 	font-weight: bold;
-	text-shadow: 4px 4px 2px #3b5998;
+	text-shadow: 4px 4px 2px #1c7cc4;
+}
+
+h1.empresa_cambio{
+	color: #fff;
+	font-family: "Fredoka One";
+	font-size: 3.5em;
+	font-weight: bold;
+	
+}
+
+.navbar-estilo navbar-nav li a{
+	color: #fff;
 }
 
 .empresa{
@@ -189,4 +201,26 @@ img {  width: 100%; }
 	position: absolute;
 	display: block;
   	text-align: center;
+}
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
