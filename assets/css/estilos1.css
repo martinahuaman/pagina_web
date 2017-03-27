@@ -1,0 +1,15 @@
+
+.background-rest {
+  background: #FCA44B url("../images/restaurante.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 0 0;
+}
+.rest-logo{
+	font-family: "Nova Oval";
+}
+.font-rest{
+	font-size: 20px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
