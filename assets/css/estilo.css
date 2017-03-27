@@ -226,3 +226,17 @@ h3.carta-letra{
 	text-align: center;
 }
 
+.input-stylos[type=text]:focus {
+    border: 3px solid #555;
+}
+
+div button.enviar-stylos{
+	width: 100%;
+}
+#contact{
+	background: #ebebeb
+}
+
+#pie-stylos{
+	background: #000;
+}
