@@ -5,6 +5,12 @@
   background-attachment: fixed;
   background-position: 0 0;
 }
+.background-hotel{
+	background: #FCA44B url("../images/hoteles.jpg") no-repeat center center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0 0;
+}
 .rest-logo{
 	font-family: "Nova Oval";
 }
@@ -12,4 +18,20 @@
 	font-size: 20px;
 	margin-right: 60px;
 	margin-left: 60px;
+}
+.buscador{
+	margin: 10px 80px;
+}
+.buscar{
+	background: #1c7cc4;
+	color: #fff;
+	padding: 10px 60px;
+	font-size: 18px;
+}
+.registrar-1{
+	color: #fff;
+	font-family: cursive;
+}
+.img-logo{
+	padding: 8px
 }
